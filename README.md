@@ -27,4 +27,4 @@ This project is licensed under the MIT License - see the LICENSE file for detail
 Acknowledgements
 The project makes use of the MNIST dataset, which is widely used in the machine learning community for benchmarking image classification algorithms.
 
-Feel free to customize this README file to better fit your project and its specific features! Let me know if you need further assistance.
+
